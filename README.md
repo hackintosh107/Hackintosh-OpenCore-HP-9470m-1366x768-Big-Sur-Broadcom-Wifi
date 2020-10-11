@@ -1,5 +1,5 @@
-# Hackintosh-Opencore-HP-9470m-1366x768-Broadcom-Wifi
-Opencore EFI bootloader for HP 9470m with 1366x768 resolution and Broadcom Wi-Fi
+# Hackintosh-OpenCore-HP-9470m-1366x768-Broadcom-Wifi
+OpenCore EFI bootloader for HP 9470m with 1366x768 resolution and Broadcom Wi-Fi
 
 <p align="center">
   <img width="400" height="300" src="/img/HP_9470m.png">
