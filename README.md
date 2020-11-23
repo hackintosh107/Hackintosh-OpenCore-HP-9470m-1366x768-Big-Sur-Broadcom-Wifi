@@ -20,10 +20,12 @@ OpenCore EFI bootloader for HP 9470m with 1366x768 resolution and Broadcom Wi-Fi
 * Fingerprint: Synaptics Fingerprint Sensors
 
 # Version: 
-* OpenCore: 0.6.2
+* OpenCore: 0.6.3
+* macOS: 10.16 (Big Sur)
 
 # Working:
 - [x] Intel HD Graphics 4000
+- [x] Sleep
 - [x] Audio
 - [x] Internal microphone
 - [ ] External microphone
