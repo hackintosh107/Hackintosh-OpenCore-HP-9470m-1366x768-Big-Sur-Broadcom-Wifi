@@ -54,9 +54,6 @@ Don't use this EFI bootloader for 1600x900 resolution
 
 # Screenshots:
 <p align="center" style="margin:20px">
-  <img src="/img/Properties.png" alt="System Information">
-</p>
-<p align="center" style="margin:20px">
   <img align="center" src="/img/Backlight.png">
 </p>
 <p align="center" style="margin:20px">
