@@ -1,9 +1,5 @@
-# Hackintosh-OpenCore-HP-9470m-1366x768-Broadcom-Wifi
+# Hackintosh-OpenCore-HP-9470m-1366x768-Big-Sur-Broadcom-Wifi
 OpenCore EFI bootloader for HP 9470m with 1366x768 resolution and Broadcom Wi-Fi
-
-<p align="center">
-  <img width="400" height="300" src="/img/HP_9470m.png">
-</p>
 
 # Specifications:
 * CPU: Intel Core i5-3437U
@@ -20,26 +16,29 @@ OpenCore EFI bootloader for HP 9470m with 1366x768 resolution and Broadcom Wi-Fi
 * Fingerprint: Synaptics Fingerprint Sensors
 
 # Version: 
-* OpenCore: 0.6.3
+* OpenCore: 0.7.1
 * macOS: 10.16 (Big Sur)
+
+# BIOS settings:
+* Boot mode: UEFI Hybrid
+* SATA mode: AHCI
 
 # Working:
 - [x] Intel HD Graphics 4000
 - [x] Sleep
 - [x] Audio
 - [x] Internal microphone
-- [ ] External microphone
-- [x] Touchpad (full gestures)
+- [x] External microphone
+- [x] Touchpad (with multi gestures)
 - [x] Battery indicator
 - [x] Ethernet
+- [x] Wi-Fi
 - [x] Bluetooth
-- [x] Card reader
 - [x] CPU power management
 - [x] Webcam
 - [x] USB ports
 - [x] Fn function keys
-- [x] BCM94352HMB
-- [ ] External microphone
+- [ ] Card reader
 - [ ] Synaptics Fingerprint Sensors
 
 # Not test:
@@ -51,17 +50,3 @@ iMac16,1
  
 # Note:
 Don't use this EFI bootloader for 1600x900 resolution
-
-# Screenshots:
-<p align="center" style="margin:20px">
-  <img align="center" src="/img/Backlight.png">
-</p>
-<p align="center" style="margin:20px">
-  <img align="center" src="/img/Touchpad_1.png">
-</p>
-<p align="center" style="margin:20px">
-  <img align="center" src="/img/Touchpad_2.png">
-</p>
-<p align="center" style="margin:20px">
-  <img align="center" src="/img/Touchpad_3.png">
-</p>
